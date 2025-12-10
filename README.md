@@ -1,3 +1,6 @@
+SpaceX Falcon 9 Landing Prediction 🚀
+
+IBM Data Science Capstone project exploring SpaceX Falcon 9 launch data to understand launch performance and predict first stage landing success. The idea is simple: if we can estimate the probability of a successful landing, we can get closer to estimating launch cost and support pricing decisions for future missions.
 1. Project Overview
 
 This project walks through an end-to-end data science workflow:
